@@ -1,6 +1,6 @@
 Overview
 
-    This Laravel and React Inertia-based application is a SaaS platform that allows users to perform basic arithmetic operations (addition and subtraction) and calculate the difference between two numbers using a coin-based system. Users start with 10 coins and can purchase additional coins through Stripe for continued usage.
+This Laravel and React Inertia-based application is a SaaS platform that allows users to perform basic arithmetic operations (addition and subtraction) and calculate the difference between two numbers using a coin-based system. Users start with 10 coins and can purchase additional coins through Stripe for continued usage.
 
 Usage
 
